@@ -1,0 +1,286 @@
+
+D:\Universidad\Tesis\Programacion>python -m scoop -n 1 thesis.py
+[2018-11-26 04:45:35,285] launcher  INFO    SCOOP 0.7 1.1 on win32 using Python
+3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)], API:
+1013
+[2018-11-26 04:45:35,286] launcher  INFO    Deploying 1 worker(s) over 1 host(s)
+.
+[2018-11-26 04:45:35,286] launcher  INFO    Worker distribution:
+[2018-11-26 04:45:35,286] launcher  INFO       127.0.0.1:       0 + origin
+D:\Python\lib\site-packages\deap\creator.py:141: RuntimeWarning: A class named '
+FitnessMin' has already been created and it will be overwritten. Consider deleti
+ng previous creation of that class or rename it.
+  RuntimeWarning)
+D:\Python\lib\site-packages\deap\creator.py:141: RuntimeWarning: A class named '
+Individual' has already been created and it will be overwritten. Consider deleti
+ng previous creation of that class or rename it.
+  RuntimeWarning)
+Start of evolution
+  Evaluated 100 individuals
+-- Generation 1 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 7.042253521126761
+  Max 67.6056338028169
+  Avg 41.19718309859156
+  Std 12.0344262512
+-- Fitness Statistics --
+  Min -42.94533397185205
+  Max 17.621359755345118
+  Avg -10.028300131597968
+  Std 12.2980545625
+-- Generation 2 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 28.169014084507044
+  Max 67.6056338028169
+  Avg 48.887323943661976
+  Std 8.76028032693
+-- Fitness Statistics --
+  Min -41.53683886305423
+  Max 17.621359755345118
+  Avg -0.46434537832009043
+  Std 10.2808316798
+-- Generation 3 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 33.80281690140845
+  Max 67.6056338028169
+  Avg 54.56338028169015
+  Std 6.97323929438
+-- Fitness Statistics --
+  Min -21.817515295859348
+  Max 20.439804796483898
+  Avg 6.719304123749245
+  Std 8.12002388605
+-- Generation 4 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 36.61971830985916
+  Max 69.01408450704226
+  Avg 62.01408450704224
+  Std 5.48556743729
+-- Fitness Statistics --
+  Min -16.182571318680125
+  Max 24.665023529133293
+  Avg 11.677668543175304
+  Std 7.21127542755
+-- Generation 5 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 56.33802816901409
+  Max 76.05633802816901
+  Avg 65.76056338028164
+  Std 3.86590855538
+-- Fitness Statistics --
+  Min -0.6892587134632606
+  Max 26.07587848563505
+  Avg 14.846955635617876
+  Std 5.45342482254
+-- Generation 6 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 56.33802816901409
+  Max 77.46478873239437
+  Avg 67.21126760563378
+  Std 5.89560708496
+-- Fitness Statistics --
+  Min -13.364376090138414
+  Max 27.486287152739457
+  Avg 17.988309517601124
+  Std 6.12258687357
+-- Generation 7 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 67.6056338028169
+  Max 77.46478873239437
+  Avg 72.45070422535207
+  Std 4.51724197981
+-- Fitness Statistics --
+  Min -2.097168991642924
+  Max 28.892307383321366
+  Avg 20.84813730137814
+  Std 6.17665015741
+-- Generation 8 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 69.01408450704226
+  Max 77.46478873239437
+  Avg 73.74647887323948
+  Std 2.01679124729
+-- Fitness Statistics --
+  Min -0.6900662017130017
+  Max 28.894722568758596
+  Avg 23.961914191445175
+  Std 4.64887623772
+-- Generation 9 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 70.4225352112676
+  Max 77.46478873239437
+  Avg 73.57746478873253
+  Std 3.00841905348
+-- Fitness Statistics --
+  Min 10.578766044416241
+  Max 30.30105678725078
+  Avg 25.93485314187066
+  Std 3.03801250078
+-- Generation 10 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 71.83098591549296
+  Max 78.87323943661971
+  Avg 75.85915492957757
+  Std 1.49083026731
+-- Fitness Statistics --
+  Min 21.848723560107494
+  Max 34.52891297902236
+  Avg 27.612005982698996
+  Std 1.68001916713
+-- Generation 11 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 71.83098591549296
+  Max 84.50704225352112
+  Avg 75.40845070422544
+  Std 3.38860477673
+-- Fitness Statistics --
+  Min 24.665023529133293
+  Max 34.52891297902236
+  Avg 28.41533129673016
+  Std 1.54568627665
+-- Generation 12 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 77.46478873239437
+  Max 84.50704225352112
+  Avg 79.35211267605636
+  Std 2.73268475297
+-- Fitness Statistics --
+  Min 16.215969811219118
+  Max 34.532142698184565
+  Avg 29.232513780777662
+  Std 2.14662668235
+-- Generation 13 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 78.87323943661971
+  Max 80.28169014084507
+  Avg 79.33802816901411
+  Std 0.66227143355
+-- Fitness Statistics --
+  Min 26.073479274754433
+  Max 34.52891297902236
+  Avg 30.09186564960558
+  Std 2.11146142967
+-- Generation 14 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 78.87323943661971
+  Max 80.28169014084507
+  Avg 80.26760563380282
+  Std 0.140139075649
+-- Fitness Statistics --
+  Min 27.486258646761655
+  Max 35.940597910497985
+  Avg 31.61311005259868
+  Std 2.42536029654
+-- Generation 15 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 78.87323943661971
+  Max 80.28169014084507
+  Avg 80.26760563380282
+  Std 0.140139075649
+-- Fitness Statistics --
+  Min 26.075722855833874
+  Max 35.940597910497985
+  Avg 33.599064137044685
+  Std 2.03431854051
+-- Generation 16 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 80.28169014084507
+  Max 85.91549295774648
+  Avg 80.33802816901408
+  Std 0.560556302595
+-- Fitness Statistics --
+  Min 26.075722855833874
+  Max 35.940597910497985
+  Avg 34.895764423721296
+  Std 1.17265637301
+-- Generation 17 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 85.91549295774648
+  Max 85.91549295774648
+  Avg 85.91549295774641
+  Std 0.0
+-- Fitness Statistics --
+  Min 31.709517062269413
+  Max 35.940597910497985
+  Avg 35.47394181477492
+  Std 0.74749378137
+-- Generation 18 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 85.91549295774648
+  Max 85.91549295774648
+  Avg 85.91549295774641
+  Std 0.0
+-- Fitness Statistics --
+  Min 30.30318600502499
+  Max 35.94060583043911
+  Avg 35.82717506311078
+  Std 0.62020596533
+-- Generation 19 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 85.91549295774648
+  Max 85.91549295774648
+  Avg 85.91549295774641
+  Std 0.0
+-- Fitness Statistics --
+  Min 30.30318600502499
+  Max 37.345828273890476
+  Avg 35.84180649793602
+  Std 0.725577144246
+-- Generation 20 --
+  Evaluated 100 individuals
+-- Mutant Score Statistics --
+  Min 85.91549295774648
+  Max 85.91549295774648
+  Avg 85.91549295774641
+  Std 0.0
+-- Fitness Statistics --
+  Min 27.486669431225394
+  Max 37.345828273890476
+  Avg 35.67265591432351
+  Std 1.43256393313
+-- End of (successful) evolution --
+Best individual is [[ 9 10 -6]
+ [ 9  1  1]
+ [ 7 10  7]
+ [ 7  6  2]
+ [ 0  5 10]
+ [ 8  9  9]
+ [ 0 -9 10]
+ [ 9  5  4]
+ [ 5  0  9]
+ [10 10  7]], (37.345828273890476,)
+Best killer is [[ 9 10 -6]
+ [ 9  1  1]
+ [ 7 10  7]
+ [ 7  6  2]
+ [ 3  5 10]
+ [ 8  9  9]
+ [ 3 -9 10]
+ [ 9  5  4]
+ [ 5  0  9]
+ [10 10  7]], 85.91549295774648
+[2018-11-26 05:15:46,289] launcher  (127.0.0.1:54348) INFO    Root process is do
+ne.
+[2018-11-26 05:15:46,290] launcher  (127.0.0.1:54348) INFO    Finished cleaning
+spawned subprocesses.
+
+D:\Universidad\Tesis\Programacion>
